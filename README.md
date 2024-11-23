@@ -38,7 +38,7 @@ RecipeGenerator is a web application that uses AI to create recipes based on the
 ## **Getting Started**
 Clone the repository and follow the setup instructions to run the app locally:
 ```bash
-git clone https://github.com/<your-username>/RecipeGenerator.git
+git clone https://github.com/sarinacheng/RecipeGenerator.git
 cd RecipeGenerator
 npm install
 npm start
